@@ -9,3 +9,12 @@
     --cor-destaque: #F5F5F5;
     --cor-texto: #FF6B35;
 }
+body{
+    background-color: var(--cor-principal);
+    color: var(--cor-texto);
+    font-family: var(--fonte-texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
