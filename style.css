@@ -5,9 +5,9 @@
     --fonte-titulo: 'Kaushan Script';
     --fonte-texto: 'Crimson Text';
     --cor-principal: #0B1C4B;
-    --cor-secundaria: #1DB9C3;
-    --cor-destaque: #F5F5F5;
-    --cor-texto: #FF6B35;
+    --cor-secundaria: #ffffff;
+    --cor-destaque: #55e2db;
+    --cor-texto: #ffffff;
 }
 body{
     background-color: var(--cor-principal);
